@@ -51,9 +51,9 @@ Our app provides a modern digital solution for monitoring employee attendance, s
 
 
 
-| ![Image](https://github.com/user-attachments/assets/1e97b897-844a-40b8-8804-d259683111cf) | ![Image](https://github.com/user-attachments/assets/969f60cc-ea4e-4bc0-af1d-9a006430fddf) | ![Image](https://github.com/user-attachments/assets/029d3809-414c-4911-991c-dbf0f24b33f7) |
+| ![Image](https://github.com/user-attachments/assets/1e97b897-844a-40b8-8804-d259683111cf) | ![Image](https://github.com/user-attachments/assets/969f60cc-ea4e-4bc0-af1d-9a006430fddf) | ![Image](https://github.com/user-attachments/assets/95f0fa49-c7b3-4878-b97d-22a4f28f0725) |
 |:------------------------:|:------------------------:|:------------------------:|
-| ![Image](https://github.com/user-attachments/assets/db3ba7d8-dc67-4d11-b4a3-27d7e2476639) | ![Image](https://github.com/user-attachments/assets/5d2384c8-fcd3-435b-941c-a357c238583c) | ![Image](https://github.com/user-attachments/assets/95f0fa49-c7b3-4878-b97d-22a4f28f0725) |
+| ![Image](https://github.com/user-attachments/assets/db3ba7d8-dc67-4d11-b4a3-27d7e2476639) | ![Image](https://github.com/user-attachments/assets/5d2384c8-fcd3-435b-941c-a357c238583c) | ![Image](https://github.com/user-attachments/assets/029d3809-414c-4911-991c-dbf0f24b33f7) |
 
 ---
 
