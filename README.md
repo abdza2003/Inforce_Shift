@@ -1,9 +1,4 @@
-# Inforce_Shift
-
-
-
-
-# Employee Attendance Management App using Barcode
+#  Inforce Shift Employee Attendance Management App using Barcode
 
 **An innovative solution for managing attendance, clocking in/out, and vacation requests with intelligence and professionalism!**
 
