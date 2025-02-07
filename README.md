@@ -36,6 +36,8 @@ Our app provides a modern digital solution for monitoring employee attendance, s
 
 🖥️ **Backend using C# .NET**: Handles data processing swiftly and securely, providing a smooth user experience.
 
+🚨 **Crash & Performance Monitoring via Firebase Crashlytics**: Helps track and diagnose crashes in real time, ensuring quick issue resolution and a more stable app experience.
+
 
 ### 🔗 Quick Links:
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.inforce.mobilpdks&hl=tr)
